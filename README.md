@@ -1,1 +1,0 @@
-# ComputerGraphics_M2Subdivision
